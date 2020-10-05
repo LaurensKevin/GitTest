@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f558184-9684-4336-927f-2836fcc394ed" name="Default Changelist" comment="2eme commit : ajout d'un nouveau paragraphe">
-      <change afterPath="$PROJECT_DIR$/repertoireTest/brancheTest.html" afterDir="false" />
+    <list default="true" id="6f558184-9684-4336-927f-2836fcc394ed" name="Default Changelist" comment="commit de la branche">
+      <change beforePath="$PROJECT_DIR$/repertoireTest/testGitPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/repertoireTest/testGitPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,14 +80,22 @@
       <option name="project" value="LOCAL" />
       <updated>1601907765738</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit de la branche">
+      <created>1601908036574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601908036574</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="2eme commit : ajout page HTML" />
     <MESSAGE value="2eme commit : ajout d'un nouveau paragraphe" />
-    <option name="LAST_COMMIT_MESSAGE" value="2eme commit : ajout d'un nouveau paragraphe" />
+    <MESSAGE value="commit de la branche" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit de la branche" />
   </component>
   <component name="WindowStateProjectService">
     <state x="56" y="0" key="#Project_Structure" timestamp="1601906097630">
@@ -106,9 +114,9 @@
       <screen x="0" y="0" width="1152" height="824" />
     </state>
     <state x="387" y="109" key="Github.UntrackedFilesDialog/0.0.1152.824@0.0.1152.824" timestamp="1601907146281" />
-    <state x="168" y="144" key="Vcs.Push.Dialog.v2" timestamp="1601907772138">
+    <state x="168" y="144" key="Vcs.Push.Dialog.v2" timestamp="1601908222728">
       <screen x="0" y="0" width="1152" height="824" />
     </state>
-    <state x="168" y="144" key="Vcs.Push.Dialog.v2/0.0.1152.824@0.0.1152.824" timestamp="1601907772138" />
+    <state x="168" y="144" key="Vcs.Push.Dialog.v2/0.0.1152.824@0.0.1152.824" timestamp="1601908222728" />
   </component>
 </project>
